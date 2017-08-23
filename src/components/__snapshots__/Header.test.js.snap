@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should renders welcome 1`] = `
+<div
+  className="App-header"
+>
+  <img
+    alt="logo"
+    className="App-logo"
+    src="logo.svg"
+  />
+  <a
+    href="/"
+    id="logo"
+    onClick={undefined}
+  >
+    <h2 />
+  </a>
+</div>
+`;
