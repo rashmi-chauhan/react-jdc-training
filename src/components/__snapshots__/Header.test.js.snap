@@ -4,17 +4,17 @@ exports[`Header should renders welcome 1`] = `
 <div
   className="App-header"
 >
-  <img
-    alt="logo"
-    className="App-logo"
-    src="logo.svg"
-  />
   <a
     href="/"
     id="logo"
     onClick={undefined}
   >
-    <h2 />
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
   </a>
+  <h2 />
 </div>
 `;
